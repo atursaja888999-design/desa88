@@ -1,0 +1,18 @@
+{
+  "name": "DESA88",
+  "short_name": "DESA88",
+  "description": "Halaman akses DESA88 untuk login dan daftar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#160305",
+  "theme_color": "#4d0710",
+  "icons": [
+    {
+      "src": "https://cdn.phototourl.com/free/2026-08-19-66517da0-8c20-498d-8550-027686b143c6.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
